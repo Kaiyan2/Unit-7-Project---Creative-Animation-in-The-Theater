@@ -37,9 +37,9 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](nameOfThumbnail.png)](https://www.youtube.com/shorts/VWqDff_aaIc)
 
 ## Project Description
 
 Write a description the personal interest or problem that your animation addresses. Then explain the user story(s) you identified, and how they help frame making your animation.
-The personal interest/problem that my animation addressed is my favorite sport basketball. I identified the user story of a kid going to play basketball.
+The personal interest/problem that my animation addressed is my favorite sport basketball. I identified the user story of a kid going to play basketball. This helped me frame my animation by moving the character to the park by moving the image.
